@@ -1,6 +1,6 @@
 ## Link : https://akshar-portfolio-mu.vercel.app/
 
-# 🚀 Akshar Rao Deshaveni – Portfolio
+# 🚀 Akshar Rao Deshaveni – Portfoli
 
 Welcome to my personal portfolio! This site showcases my projects, skills, and contact details—all in a clean, responsive single‑page application.
 
@@ -12,18 +12,8 @@ Welcome to my personal portfolio! This site showcases my projects, skills, and c
 
 - [About](#about)  
 - [Built With](#built-with)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running Locally](#running-locally)  
-  - [Building for Production](#building-for-production)  
-- [Deployment](#deployment)  
-- [📂 Folder Structure](#folder-structure)  
-- [✉️ Contact](#contact)  
-- [📜 License](#license)  
-
----
-
+- [Getting Started](#getting-started)
+- 
 ## 📝 About
 
 This is the personal portfolio of **Akshar Rao Deshaveni**, where I present my:
